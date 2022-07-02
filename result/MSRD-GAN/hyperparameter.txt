@@ -1,0 +1,13 @@
+----------start----------
+upscale_factor :    1
+num_epochs :    150
+data_train :    ../data/train/1
+data_val :    ../data/test/1
+lr_D :    0.0001
+lr_G :    0.0001
+batch_size :    4
+out_path :    ../result/MSRD-GAN
+gpu_id :    0
+adversarial_index :    0.01
+perception_index :    0.06
+----------end----------
